@@ -3,7 +3,7 @@ This bot only performs the function of speeding up trading processes between pla
 Commands:
 
 1.Buying (getting) |   
-/get "itemname" : This command allows you to buy an item specified as a command parameter. If no item is found, the bot will try to find the most similar items and offer them.
+/get "itemname" : This command will allow you to see the people who are selling the item you need. If no item is found, the bot will show a similar item with the name
   
 2.Selling   
 /offer "itemname" "price" "and more info if you want to keep it" : This command allows the user to sell his item. The item and the price must be specified as parameters of the command.
