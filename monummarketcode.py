@@ -12,7 +12,7 @@ import os
 from discord_slash import SlashCommand
 from discord_slash import SlashContext
 
-disTOKEN = ''
+disTOKEN = hidden for safety
 
 bot = commands.Bot(command_prefix='/')
 bot.remove_command('help')
@@ -32,7 +32,7 @@ sellers = {}
 selling_items = []
 history = {}
 items = load_data()
-CHANNEL_ID = 1076468080370262137
+CHANNEL_ID = hidden for safety
 
 server_address = "server.playmonumenta.com"
 server_port = 25565
